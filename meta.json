@@ -2,7 +2,7 @@
   "package_name":"totked",
   "version":"1.0.1",
   "python":"true",
-  "requirements":"totked/requirements.txt",
+  "requirements":"src/requirements.txt",
   "linuxrequirements":[],
-  "main":"totked/totked.sh"
+  "main":"src/totked.sh"
 }
