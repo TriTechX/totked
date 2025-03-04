@@ -1,0 +1,8 @@
+{"repo_name":"totked",
+  "package_name":"totked",
+  "version":"1.0.1",
+  "python":"true",
+  "requirements":"totked/requirements.txt",
+  "linuxrequirements":[],
+  "main":"totked/totked.sh"
+}
